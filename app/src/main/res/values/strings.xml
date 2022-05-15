@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name" translatable="false">Projekat1</string>
+    <string name="raf_jira_statistics" translatable="false">Raf Jira Statistics</string>
+    <string name="search">Search</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="login">Login</string>
+    <string name="jira_system_for_raf_students" translatable="false">Jira system for Raf students</string>
+    <string name="add_new_ticket">Add new ticket</string>
+    <string name="est" translatable="false">Est.</string>
+    <string name="ticket_title">Ticket title</string>
+    <string name="ticket_description">Ticket description</string>
+    <string name="log_out">Log out</string>
+    <string name="todo">ToDo</string>
+    <string name="enhancements" translatable="false">Enhancements</string>
+    <string name="bugs" translatable="false">Bugs</string>
+    <string name="inprogres">InProgres</string>
+    <string name="enhacements" translatable="false">Enhacements</string>
+    <string name="done">Done</string>
+    <string name="inprogress">InProgress</string>
+    <string name="ticket_type">Ticket type</string>
+    <string name="priority">Priority</string>
+    <string name="estimation">Estimation</string>
+    <string name="logged_time">Logged time</string>
+    <string name="ticket_desc">Ticket desc.</string>
+    <string name="edit">Edit</string>
+    <string name="statistics">Statistics</string>
+    <string name="newBotNav" />
+    <string name="tickets">Tickets</string>
+    <string name="profile">Profile</string>
+    <string-array name="tipovi">
+        <item>Bug</item>
+        <item>Enhancements</item>
+    </string-array>
+
+    <string-array name="prioriteti">
+        <item>Highest</item>
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+        <item>Lowest</item>
+    </string-array>
+</resources>
